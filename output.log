@@ -1,0 +1,58 @@
+Acertou! Benigno -> Saida = -1177968724.63
+Acertou! Benigno -> Saida =   -3249157.25
+Acertou! Benigno -> Saida =   -4622678.32
+Acertou! Benigno -> Saida =   -3382750.92
+Acertou! Benigno -> Saida =   -4091412.48
+Acertou! Maligno -> Saida =    +548073.28
+Acertou! Maligno -> Saida =   +6523001.90
+Acertou! Maligno -> Saida =  +11900514.29
+Acertou! Maligno -> Saida =   +8596542.92
+Acertou! Maligno -> Saida =   +2128595.73
+Acertou! Maligno -> Saida =  +13738737.34
+Acertou! Benigno -> Saida = -1249431303.99
+Acertou! Benigno -> Saida =   -5080959.39
+Acertou! Benigno -> Saida =   -4136171.92
+Acertou! Benigno -> Saida =   -3121266.58
+Acertou! Benigno -> Saida =   -1771272.45
+Acertou! Maligno -> Saida =   +4309539.35
+Acertou! Benigno -> Saida =   -4867246.85
+Acertou! Maligno -> Saida =   +8247483.47
+Errou!.......... -> Saida =   -3748628.12
+Acertou! Benigno -> Saida =   -4498152.12
+Acertou! Benigno -> Saida = -2162139358.24
+
+Equacao:
+-124662.95 * radius_mean
+ +92061.69 * texture_mean
+-224100.94 * perimeter_mean
+  +2525.14 * area_mean
+ +21298.83 * smoothness_mean
+  +5020.81 * compactness_mean
+   +944.60 * concavity_mean
+ -13049.58 * concave points_mean
+   +850.08 * symmetry_mean
+ +18131.14 * fractal_dimension_mean
+    +46.18 * radius_se
+   -461.63 * texture_se
+   -362.13 * perimeter_se
+    +46.18 * area_se
+   +601.91 * smoothness_se
+ +27764.82 * compactness_se
+  +5548.23 * concavity_se
+  +1205.99 * concave points_se
+ -14249.11 * symmetry_se
+   +639.45 * fractal_dimension_se
+-131976.12 * radius_worst
+ +80100.11 * texture_worst
+ +23574.04 * perimeter_worst
+ +19687.32 * area_worst
+  -4354.20 * smoothness_worst
+  +2214.66 * compactness_worst
+   -742.09 * concavity_worst
+  +2638.42 * concave points_worst
+  -1484.83 * symmetry_worst
+ +42766.75 * fractal_dimension_worst
+
+Total de epocas utilizado:50000
+Total de acertos entre 22 testes:21
+Taxa de acerto                  :95.45%

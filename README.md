@@ -1,2 +1,7 @@
-# Projeto 1 Computação Paralela :rocket:
+# Projeto 1 - Computação Paralela :rocket:
 Repositório para o projeto 01 da matéria de computação paralela do sexto período do curso de ciência da computação da PUC Minas.
+
+### Grupo 
+ - Gustavo Martins Lopes da Costa.
+ - Juliana Silvestre da Silva.
+ - Omar Freire de Paiva e Krauss.
