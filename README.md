@@ -3,7 +3,7 @@ Projeto 01 da matéria de computação paralela do sexto período do curso de ci
 projeto do grupo utilizou como base o projeto feito no vídeo [Perceptron (neurônio artificial) em C para diagnóstico de câncer de mama
  baseado em dados reais](https://www.youtube.com/watch?v=-c-Z4H_18I0&t=557s). O projeto é uma implementção de neurônio perceptron para a classificação entre câncer benigno e maligno.
  O dataset foi obtido através do kaggle e consisete em informações sobre células de mama humanas coletados pela técnica Fine Needle Aspirate 
- (FNA)e disponibilizados pela School of Computer, Data & Information Sciences da Universidade de Wisconsin. Por questões de memória o projeto original implementa o dataset diretamente em código, no entanto, a base de dados original pode ser visualizada na pasta database.
+ (FNA)e disponibilizados pela School of Computer, Data & Information Sciences da Universidade de Wisconsin. Por questões de memória o projeto original implementa o dataset diretamente em código, no entanto, a base de dados original pode ser visualizada na pasta database. O vídeo que resume o trabalho pode ser acessado clicando [aqui](https://youtu.be/Z3h5KX2MoXI).
 
 
 

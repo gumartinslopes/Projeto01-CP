@@ -1,4 +1,4 @@
-g++ perceptron.cpp -o perceptron
+g++ perceptron_sequencial.cpp -o perceptron
 g++ perceptron_paralelo.cpp -fopenmp -o perceptron_paralelo
 
 clear
