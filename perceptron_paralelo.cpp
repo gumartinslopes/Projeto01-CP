@@ -1,23 +1,23 @@
 #include <stdio.h>
 /*
 1 Thread
-S:11,699
-P:5,545
+Tempo Sequencial:11,699
+Tempo Paralelo:5,545
 Speedup: 2,109828
 
 2 Thread
-S:11,883
-P:5,576
+Tempo Sequencial:11,883
+Tempo Paralelo:5,576
 Speedup: 2,131097
 
 4 Thread
-S:11.587
-P:5.735
+Tempo Sequencial:11.587
+Tempo Paralelo:5.735
 Speedup: 2,020401
 
 8 Threads
-S:10.498
-P:5.640
+Tempo Sequencial:10.498
+Tempo Paralelo:5.640
 Speedup: 1,861
 */
 #define Epocas 500000
