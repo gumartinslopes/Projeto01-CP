@@ -1,5 +1,6 @@
 # Projeto 1 - Computação Paralela :rocket:
-Repositório para o projeto 01 da matéria de computação paralela do sexto período do curso de ciência da computação da PUC Minas.
+Projeto 01 da matéria de computação paralela do sexto período do curso de ciência da computação da PUC Minas. O
+projeto do grupo utilizou como base o projeto feito no vídeo [Perceptron (neurônio artificial) em C para diagnóstico de câncer de mama baseado em dados reais](https://www.youtube.com/watch?v=-c-Z4H_18I0&t=557s).
 
 ## Grupo 
  - Gustavo Martins Lopes da Costa.

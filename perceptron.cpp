@@ -1,8 +1,9 @@
 #include <stdio.h>
-#define Epocas 50000  //5000 epocas ja chega a 95,45%
+#define Epocas 500000
 
 float m[547][31], n=0.25, TaxaAcerto=0;
 int Acertos=0, i=0,j=0,Erro=0;
+//pesos
 double 
        p00=0, p01=0, p02=0, p03=0, p04=0, p05=0, p06=0, p07=0, p08=0, p09=0, p10=0, 
        p11=0, p12=0, p13=0, p14=0, p15=0, p16=0, p17=0, p18=0, p19=0, p20=0, p21=0, 
@@ -563,7 +564,7 @@ m[546][0]=10.16;	m[546][1]=19.59;	m[546][2]=64.73;	m[546][3]=311.7;	m[546][4]=0.
   for(j=0; j<Epocas; j++)
   {
     
-   //#pragma omp parallel for
+
    for (i=0; i<547; i++)
    {
          Saida = p00*m[i][0] + p01*m[i][1] + p02*m[i][2] + p03*m[i][3] + p04*m[i][4] + p05*m[i][5] + p06*m[i][6] + p07*m[i][7] + p08*m[i][8] + p09*m[i][9] + p10*m[i][10] + p11*m[i][11] + p12*m[i][12] + p13*m[i][13] + p14*m[i][14] + p15*m[i][15] + p16*m[i][16] + p17*m[i][17] + p18*m[i][18] + p19*m[i][19] + p20*m[i][20] + p21*m[i][21] + p22*m[i][22] + p23*m[i][23] + p24*m[i][24] + p25*m[i][25] + p26*m[i][26] + p27*m[i][27] + p28*m[i][28] + p29*m[i][29];
